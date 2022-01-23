@@ -1,0 +1,30 @@
+body{
+    font-size: 15px;
+    background-color: hsl(212, 45%, 89%);
+    height: 95vh;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    font-family: Outfit ;
+}
+.container{
+    background-color: hsl(0, 0%, 100%);
+    padding: 13px ;
+    border-radius: 15px;
+    width: 275px;
+    align-self: center;
+    height: fit-content;
+    /* box-shadow: 2px 2px black; */
+}
+.img1{
+    height: 275px;
+    width: 275px;
+    border-radius: 13px;
+}
+.txt{
+    margin-right: 14px;
+    justify-content: center;
+}
+.lighten-text{
+    color: hsl(220, 15%, 55%);
+}
